@@ -19,7 +19,7 @@ If you wish to run this app locally:
 2. Navigate to the ```19-Text-Editor-App``` folder using the command prompt.
 3. Run ```npm i -y``` to install all dependencies.
 4. Type ```npm run start``` to start the app.
-5. Visit ```Localhost:3000``` in your default browser.
+5. Visit ```localhost:3000``` in your default browser.
 
 ## Usage Instructions
 
