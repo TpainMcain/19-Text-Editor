@@ -15,8 +15,8 @@ J.A.T.E. (Just Another Text Editor), is a web-based editor designed for creating
 ## Installation Instructions
 If you wish to run this app locally:
 1. Clone the repository to your local development environment.
-    * ```git clone https://github.com/TpainMcain/18-Social-Network-API.git```
-2. Navigate to the ```18-Social-Network-API``` folder using the command prompt.
+    * ```git clone https://github.com/TpainMcain/19-Text-Editor-App```
+2. Navigate to the ```19-Text-Editor-App``` folder using the command prompt.
 3. Run ```npm i -y``` to install all dependencies.
 4. Type ```npm run start``` to start the app.
 5. Visit ```Localhost:3000``` in your default browser.
