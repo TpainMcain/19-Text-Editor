@@ -10,7 +10,7 @@
   - [Contact Me](#contact-me)
   
 ## Description
-J.A.T.E. (Just Another Text Editor), is a web-based editor designed for creating notes and code snippets. It operates reliably regardless of internet connectivity, thanks to the implementation of service workers and the Cache API. Its offline-first architecture allows users to access previously visited pages without the need for an internet connection, providing a consistent user experience and facilitating uninterrupted workflow.
+J.A.T.E. (Just Another Text Editor), is a web-based editor designed for creating notes and code snippets. It operates reliably regardless of internet connectivity, thanks to the implementation of service workers and Cache API's. Its offline-first architecture allows users to access previously visited pages without the need for an internet connection, providing a consistent user experience and facilitating uninterrupted workflow.
 
 ## Installation Instructions
 
