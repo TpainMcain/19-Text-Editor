@@ -22,8 +22,11 @@ If you wish to run this app locally:
 5. Visit ```localhost:3000``` in your default browser.
 
 ## Usage Instructions
+* Install locally or visit the deployed app below!
+* Click the ```Install``` button to install to your browser and create a desktop shortcut.
+* Inspect the page in your browser to see what's happening!
 
-### Deployed Link
+### Deployed Link:
 https://twp-text-editor-app-0269692e3c67.herokuapp.com/
 
 ## License
@@ -31,7 +34,7 @@ Permission to use this application is granted under the MIT license.
 Click on the link for more information: [MIT License Information](https://opensource.org/licenses/MIT)
 
 ## Credits
-
+https://github.com/stellalph/19-PWA-Text-Editor
 
 ## Contact Me
 GitHub Link: (https://github.com/TpainMcain)<br>
