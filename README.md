@@ -23,8 +23,8 @@ If you wish to run this app locally:
 
 ## Usage Instructions
 
-### Video Walkthrough
-
+### Deployed Link
+https://twp-text-editor-app-0269692e3c67.herokuapp.com/
 
 ## License
 Permission to use this application is granted under the MIT license.
